@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-Restricted%20Academic-red.svg)](LICENSE)
 
 > 🏆 **Premiado na SEMCITEC 2026:**  
-> Trabalho agraciado com o **3º Lugar no Eixo 2** (*Ciências Exatas, da Terra e Engenharias*) na **Semana de Ciência e Tecnologia (SEMCITEC 2026)**, sediada no IFSP Guarulhos.  
+> Trabalho agraciado com o **3º Lugar no Eixo 2** (*Ciências Exatas, da Terra e Engenharias*) na **Semana de Ciência e Tecnologia (SEMCITEC 2026)**.  
 > 
 > **Autores:** Victor Gabriel de Jesus Cursi & Caroline Raquel Silva Macris  
 > **Instituição de Origem:** **Centro Universitário Eniac — Guarulhos, SP, Brasil**  
@@ -213,7 +213,7 @@ THOR-PIML-Conic2026/
 @article{thor_piml_guarulhos_2026,
   title={THOR-PIML: Modelagem H{\'i}brida com F{\'i}sica Informada para Proje{\c{c}}{\~a}o de Indicadores Bioclim{\'a}ticos e Corre{\c{c}}{\~a}o de Vi{\'e}s Sazonal em Guarulhos-SP sob Cen{\'a}rios SSP (2026--2099)},
   author={Cursi, Victor Gabriel de Jesus and Macris, Caroline Raquel Silva},
-  journal={Anais da Semana de Ci{\^e}ncia e Tecnologia do IFSP Guarulhos (SEMCITEC 2026)},
+  journal={Anais da Semana de Ci{\^e}ncia e Tecnologia (SEMCITEC 2026)},
   year={2026},
   note={Premiado com o 3º Lugar no Eixo 2},
   institution={Centro Universit{\'a}rio Eniac, Guarulhos, SP, Brasil}
