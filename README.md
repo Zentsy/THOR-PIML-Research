@@ -1,6 +1,6 @@
 # THOR-PIML: Modelagem Híbrida com Física Informada para Projeção de Indicadores Bioclimáticos e Correção de Viés Sazonal em Guarulhos-SP (2026–2099)
 
-[![SEMCITEC 2026](https://img.shields.io/badge/SEMCITEC%202026-3%C2%BA%20Lugar%20(Eixo%202)-gold.svg)](docs/ESCOPO_PROJETO_SEMCITEC_2026.md)
+[![SEMCITEC 2026](https://img.shields.io/badge/SEMCITEC%202026-3%C2%BA%20Lugar%20(Eixo%202)-gold.svg)](docs/SUPPLEMENTARY_MATERIAL.md)
 [![CONIC 2026](https://img.shields.io/badge/CONIC-2026-blue.svg)](https://github.com/Zentsy/THOR-PIML-Conic2026)
 [![Instituição](https://img.shields.io/badge/Institui%C3%A7%C3%A3o-Centro%20Universit%C3%A1rio%20ENIAC-003E47.svg)](https://www.eniac.com.br/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
@@ -172,18 +172,24 @@ Alinhando-se à fronteira global da inteligência artificial aplicada às geoci�
 
 ---
 
-## 💻 Estrutura do Repositório & Arquivos de Dados
+## 🔒 Propriedade Intelectual & Acesso Restrito ao Modelo
 
-```text
+> [!IMPORTANT]
+> **Aviso de Proteção Intelectual e Integridade Tecnológica:**  
+> Os pesos neurais treinados (.pt), a parametrização profunda do tronco híbrido ResLSTM-TCN e o código-fonte de modelagem e treinamento (src/) constituem **propriedade intelectual protegida** dos autores e do **Centro Universitário ENIAC**.
+> 
+> Para resguardar a tecnologia desenvolvida e evitar apropriação indevida ou uso comercial não autorizado, os arquivos de modelo bruto e rotinas de treino foram retidos sob custódia privada. Pesquisadores, órgãos públicos e entidades interessadas em auditoria metodológica detalhada, cooperações técnicas ou licenciamento institucional devem entrar em contato formalmente com os autores.
+
+---
+
+## 💻 Estrutura do Repositório & Produtos Disponibilizados
+
+`	ext
 THOR-PIML-Conic2026/
-├── checkpoints/              # Checkpoints pré-treinados congelados
-│   ├── v8_hybrid_seed42.pt   # Modelo oficial THOR-V8 PIML
-│   └── scaler_v7.json        # Parâmetros de escalonamento robusto (sem leakage)
 ├── data/                     # Dados observacionais de calibração
 │   └── ground_truth_guarulhos_daily_v3.csv
 ├── docs/                     # Documentação e material suplementar
-│   ├── SUPPLEMENTARY_MATERIAL.md
-│   └── ESCOPO_PROJETO_SEMCITEC_2026.md
+│   └── SUPPLEMENTARY_MATERIAL.md
 ├── results/
 │   ├── figures/              # Figuras editoriais em alta resolução (300 DPI)
 │   │   ├── fig1_multimodel_prcptot_projections_300dpi.png
@@ -199,12 +205,9 @@ THOR-PIML-Conic2026/
 │   └── tables/               # Resumos das 4 épocas climatológicas
 │       ├── multimodel_ensemble_epochs_summary.csv
 │       └── multimodel_ensemble_epochs_summary.json
-├── src/                      # Código-fonte oficial PyTorch da arquitetura V8 e perdas PIML
-├── reproduce_paper_results.py # Script de avaliação e benchmark oficial
-├── requirements.txt          # Dependências pinadas (Python 3.10+, PyTorch 2.4.0)
+├── requirements.txt          # Dependências do ambiente
 └── LICENSE                   # Licença de Avaliação Acadêmica Restrita
-```
-
+`
 ---
 
 ## 📜 Citação e Direitos
