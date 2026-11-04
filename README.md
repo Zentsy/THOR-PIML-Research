@@ -2,7 +2,8 @@
 
 [![SEMCITEC 2026](https://img.shields.io/badge/SEMCITEC%202026-3%C2%BA%20Lugar%20(Eixo%202)-gold.svg)](docs/SUPPLEMENTARY_MATERIAL.md)
 [![CONIC 2026](https://img.shields.io/badge/CONIC-2026-blue.svg)](https://github.com/Zentsy/THOR-PIML-Conic2026)
-[![Instituição](https://img.shields.io/badge/Institui%C3%A7%C3%A3o-Centro%20Universit%C3%A1rio%20ENIAC-003E47.svg)](https://www.eniac.com.br/)
+[![Autores](https://img.shields.io/badge/Autores-Victor%20Cursi%20%7C%20Carol%20Macris-003E47.svg)]()
+[![Propriedade](https://img.shields.io/badge/Propriedade-Autores%20%26%20Orientadores-8b0000.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.0-ee4c2c.svg)](https://pytorch.org/)
 [![Violações Físicas](https://img.shields.io/badge/Viola%C3%A7%C3%B5es%20F%C3%ADsicas-0.00%25-success.svg)]()
@@ -11,8 +12,9 @@
 > 🏆 **Premiado na SEMCITEC 2026:**  
 > Trabalho agraciado com o **3º Lugar no Eixo 2** (*Ciências Exatas, da Terra e Engenharias*) na **Semana de Ciência e Tecnologia (SEMCITEC 2026)**.  
 > 
-> **Autores:** Victor Gabriel de Jesus Cursi & Caroline Raquel Silva Macris  
-> **Instituição de Origem:** **Centro Universitário Eniac — Guarulhos, SP, Brasil**  
+> **Autores e Titularidade:** Victor Gabriel de Jesus Cursi & Caroline Raquel Silva Macris (e Orientadores)  
+> **Filiação Acadêmica:** Graduandos no Centro Universitário Eniac (Guarulhos, SP)  
+> **Propriedade Intelectual & Titularidade:** Exclusiva dos Autores e Orientadores  
 > **Nomenclatura Canônica:** **THOR-PIML** (*Taylor-Hurdle Optimized Regional Physics-Informed Machine Learning*)  
 > **Repositório Público Oficial de Consulta e Auditoria:** `github.com/Zentsy/THOR-PIML-Conic2026`
 
@@ -176,7 +178,7 @@ Alinhando-se à fronteira global da inteligência artificial aplicada às geoci�
 
 > [!IMPORTANT]
 > **Aviso de Proteção Intelectual e Integridade Tecnológica:**  
-> Os pesos neurais treinados (.pt), a parametrização profunda do tronco híbrido ResLSTM-TCN e o código-fonte de modelagem e treinamento (src/) constituem **propriedade intelectual protegida** dos autores e do **Centro Universitário ENIAC**.
+> Os pesos neurais treinados (.pt), a arquitetura do tronco híbrido ResLSTM-TCN, a barreira de física informada (PIML) e o código-fonte proprietário de modelagem e treinamento constituem **propriedade intelectual exclusiva e intransferível dos AUTORES e ORIENTADORES**. O Centro Universitário ENIAC figura estritamente como filiação acadêmica dos alunos graduandos, não possuindo titularidade, direitos de patente, copropriedade ou cessão tecnológica sobre a arquitetura e os modelos aqui desenvolvidos.
 > 
 > Para resguardar a tecnologia desenvolvida e evitar apropriação indevida ou uso comercial não autorizado, os arquivos de modelo bruto e rotinas de treino foram retidos sob custódia privada. Pesquisadores, órgãos públicos e entidades interessadas em auditoria metodológica detalhada, cooperações técnicas ou licenciamento institucional devem entrar em contato formalmente com os autores.
 
@@ -220,9 +222,8 @@ Todas as referências e os artigos escritos em 2024, 2025 e 2026 podem ser encon
   author={Cursi, Victor Gabriel de Jesus and Macris, Caroline Raquel Silva},
   journal={Anais da Semana de Ci{\^e}ncia e Tecnologia (SEMCITEC 2026)},
   year={2026},
-  note={Premiado com o 3º Lugar no Eixo 2},
-  institution={Centro Universit{\'a}rio Eniac, Guarulhos, SP, Brasil}
+  note={Premiado com o 3º Lugar no Eixo 2; autores graduandos no Centro Universitário Eniac}
 }
 ```
 
-*Uso estritamente acadêmico sob a [Restricted Academic Evaluation License](LICENSE). Proibida redistribuição comercial ou governamental sem autorização prévia por escrito dos autores e do Centro Universitário ENIAC.*
+*Uso estritamente acadêmico sob a [Restricted Academic Evaluation License](LICENSE). Proibida redistribuição comercial, governamental ou institucional sem autorização prévia e expressa por escrito dos autores e orientadores.*
