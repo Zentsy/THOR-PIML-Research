@@ -1,7 +1,8 @@
 # THOR-PIML: Modelagem Híbrida com Física Informada para Projeção de Indicadores Bioclimáticos e Correção de Viés Sazonal em Guarulhos-SP (2026–2099)
 
 [![SEMCITEC 2026](https://img.shields.io/badge/SEMCITEC%202026-3%C2%BA%20Lugar%20(Eixo%202)-gold.svg)](docs/SUPPLEMENTARY_MATERIAL.md)
-[![CONIC 2026](https://img.shields.io/badge/CONIC-2026-blue.svg)](https://github.com/Zentsy/THOR-PIML-Conic2026)
+[![Research](https://img.shields.io/badge/Research-Carta%20Mestre-0052cc.svg)](https://github.com/Zentsy/THOR-PIML-Research)
+[![CONIC 2026](https://img.shields.io/badge/CONIC-2026-blue.svg)](https://github.com/Zentsy/THOR-PIML-Research)
 [![Autores](https://img.shields.io/badge/Autores-Victor%20Cursi%20%7C%20Carol%20Macris-003E47.svg)]()
 [![Propriedade](https://img.shields.io/badge/Propriedade-Autores%20%26%20Orientadores-8b0000.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
@@ -17,7 +18,7 @@
 > **Filiação Acadêmica:** Graduandos no Centro Universitário Eniac (Guarulhos, SP)  
 > **Propriedade Intelectual & Titularidade:** Exclusiva dos Autores e Orientadores  
 > **Nomenclatura Canônica:** **THOR-PIML** (*Taylor-Hurdle Optimized Regional Physics-Informed Machine Learning*)  
-> **Repositório Público Oficial de Consulta e Auditoria:** `github.com/Zentsy/THOR-PIML-Conic2026`
+> **Repositório Público Oficial de Consulta e Auditoria:** `github.com/Zentsy/THOR-PIML-Research`
 
 ---
 
@@ -187,8 +188,8 @@ Alinhando-se à fronteira global da inteligência artificial aplicada às geoci�
 
 ## 💻 Estrutura do Repositório & Produtos Disponibilizados
 
-`	ext
-THOR-PIML-Conic2026/
+```text
+THOR-PIML-Research/
 ├── data/                     # Dados observacionais de calibração
 │   └── ground_truth_guarulhos_daily_v3.csv
 ├── docs/                     # Documentação e material suplementar
@@ -210,7 +211,8 @@ THOR-PIML-Conic2026/
 │       └── multimodel_ensemble_epochs_summary.json
 ├── requirements.txt          # Dependências do ambiente
 └── LICENSE                   # Licença de Avaliação Acadêmica Restrita
-`
+```
+
 ---
 
 ## 📜 Citação e Direitos
