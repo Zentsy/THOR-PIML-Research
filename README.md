@@ -209,6 +209,8 @@ THOR-PIML-Conic2026/
 
 ## 📜 Citação e Direitos
 
+Todas as referências e os artigos escritos em 2024, 2025 e 2026 podem ser encontrados em: https://drive.google.com/drive/folders/1bi05sHnR1KCm34lQV-26Jth_PF7QlXSK?usp=sharing
+
 ```bibtex
 @article{thor_piml_guarulhos_2026,
   title={THOR-PIML: Modelagem H{\'i}brida com F{\'i}sica Informada para Proje{\c{c}}{\~a}o de Indicadores Bioclim{\'a}ticos e Corre{\c{c}}{\~a}o de Vi{\'e}s Sazonal em Guarulhos-SP sob Cen{\'a}rios SSP (2026--2099)},
