@@ -12,7 +12,8 @@
 > 🏆 **Premiado na SEMCITEC 2026:**  
 > Trabalho agraciado com o **3º Lugar no Eixo 2** (*Ciências Exatas, da Terra e Engenharias*) na **Semana de Ciência e Tecnologia (SEMCITEC 2026)**.  
 > 
-> **Autores e Titularidade:** Victor Gabriel de Jesus Cursi & Caroline Raquel Silva Macris (e Orientadores)  
+> **Autores e Titularidade:** Victor Gabriel de Jesus Cursi & Caroline Raquel Silva Macris
+> **Orientadores:** Me. Luiz Carlos Rodrigues de Medeiros & Prof. Maria Cristina Tagliari Diniz  
 > **Filiação Acadêmica:** Graduandos no Centro Universitário Eniac (Guarulhos, SP)  
 > **Propriedade Intelectual & Titularidade:** Exclusiva dos Autores e Orientadores  
 > **Nomenclatura Canônica:** **THOR-PIML** (*Taylor-Hurdle Optimized Regional Physics-Informed Machine Learning*)  
