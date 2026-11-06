@@ -1,5 +1,7 @@
 # THOR-PIML: Modelagem Híbrida com Física Informada para Projeção de Indicadores Bioclimáticos e Correção de Viés Sazonal em Guarulhos-SP (2026–2099)
 
+🌐 **Versão em Português** | [English Version](README_EN.md)
+
 [![SEMCITEC 2026](https://img.shields.io/badge/SEMCITEC%202026-3%C2%BA%20Lugar%20(Eixo%202)-gold.svg)](docs/SUPPLEMENTARY_MATERIAL.md)
 [![Research](https://img.shields.io/badge/Research-Ongoing%20-0052cc.svg)](https://github.com/Zentsy/THOR-PIML-Research)
 [![CONIC 2026](https://img.shields.io/badge/CONIC-2026-blue.svg)](https://github.com/Zentsy/THOR-PIML-Research)
